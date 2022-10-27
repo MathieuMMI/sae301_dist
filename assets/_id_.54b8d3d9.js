@@ -1,0 +1,1 @@
+import{_ as o}from"./FormMontre.vue_vue_type_script_setup_true_lang.bb064662.js";import{d as t,o as s,c as n,e as a}from"./index.71cd0d33.js";const c={class:"bg-yellow-200 pt-52 pb-52"},d=t({__name:"[id]",props:{id:null},setup(e){return(i,r)=>(s(),n("section",c,[a(o,{id:e.id},null,8,["id"])]))}});export{d as default};
